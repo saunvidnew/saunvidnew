@@ -4,7 +4,7 @@ This is my new Github account, my previous github account got suspended. So ther
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Machine Learning
 - 📫 saunvidganbavale@csus.edu
-- [LinkedIn](https://www.linkedin.com/in/saunvid-ganbavale-saundy/)
+- 🚀 [LinkedIn](https://www.linkedin.com/in/saunvid-ganbavale-saundy/)
 
 
 <!---
