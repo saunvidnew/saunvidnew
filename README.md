@@ -1,6 +1,6 @@
-This is my new Github account, my previous github account got suspended. So there are less commmits
+This is my new Github account, my previous github account got suspended. So there are less commmits here.
 
-- 👋 Hi, I’m @saunvidnew
+- 👋 Hi, I’m Saunvid Ganbavale
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Machine Learning
 - 📫 saunvidganbavale@csus.edu
