@@ -3,7 +3,7 @@ This is my new Github account, my previous github account got suspended. So ther
 - 👋 Hi, I’m Saunvid Ganbavale
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Machine Learning
-- 📫 saunvidganbavale@csus.edu
+- 📫 saunvidganbavale100@gmail.com
 - 🚀 [LinkedIn](https://www.linkedin.com/in/saunvid-ganbavale-saundy/)
 
 
